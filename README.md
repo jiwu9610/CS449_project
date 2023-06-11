@@ -1,2 +1,23 @@
-# CS449_project
-This is the project description and full code of our CS449 project: Fine-tuning Language Model with Legal Text
+# CS 449 Final Project
+
+This repository should contain everything you need for us to grade your final
+project, with the exception of any datasets that are larger than 50 MB.
+
+## Important Instructions
+
+In order for us to easily grade your *prospoal*, please make sure to include
+the following files
+
+- `netids` should include the Net IDs of your team members, with one Net ID per
+  line.
+- `proposal.pdf` should include a PDF printout of your proposal document. We
+  provide a `proposal.ipynb` as a template which you can edit, but your work
+  should be submitted as a PDF.
+- There are many jupyter notebooks for running LexGLUE becasue we want to save time by running parallel. They all have similar structures Please refer to `LexGLUE_CaseHOLD.ipynb` to see comments on the general structure.
+
+For future project assignments, you will need to include `update.pdf` and
+`report.pdf` files, but those aren't necessary for your proposal.
+
+## Final Submission
+
+Fine-tuned Model Instances (too big to load) here: https://drive.google.com/drive/folders/1fJueqYSrMJY7yL2KkTaDrON0qyuO-G2-?usp=sharing
