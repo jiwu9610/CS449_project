@@ -1,0 +1,17 @@
+{
+    "epoch": 4.0,
+    "eval_loss": 0.6471548080444336,
+    "eval_macro-f1": 0.7397911707611283,
+    "eval_micro-f1": 0.7397435897435898,
+    "eval_runtime": 24.6476,
+    "eval_samples": 3900,
+    "eval_samples_per_second": 158.23,
+    "eval_steps_per_second": 19.799,
+    "predict_loss": 0.676580011844635,
+    "predict_macro-f1": 0.723856722374298,
+    "predict_micro-f1": 0.7238888888888889,
+    "predict_runtime": 22.8048,
+    "predict_samples": 3600,
+    "predict_samples_per_second": 157.862,
+    "predict_steps_per_second": 19.733
+}
